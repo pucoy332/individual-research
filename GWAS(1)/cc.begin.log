@@ -1,0 +1,31 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --make-bed
+  --map cc.map
+  --out cc.begin
+  --ped cc.ped
+
+Hostname: LAPTOP-ADFAOIQS
+Working directory: C:\Users\user\Desktop\GWAS
+Start time: Mon Nov 29 22:49:11 2021
+
+Random number seed: 1638193751
+16297 MB RAM detected; reserving 8148 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (484128 variants, 193 people).
+--file: cc.begin-temporary.bed + cc.begin-temporary.bim +
+cc.begin-temporary.fam written.
+484128 variants loaded from .bim file.
+193 people (107 males, 86 females) loaded from .fam.
+193 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 193 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 2177 het. haploid genotypes present (see cc.begin.hh ); many commands
+treat these as missing.
+Total genotyping rate is 0.963235.
+484128 variants and 193 people pass filters and QC.
+Among remaining phenotypes, 127 are cases and 66 are controls.
+--make-bed to cc.begin.bed + cc.begin.bim + cc.begin.fam ... done.
+
+End time: Mon Nov 29 22:49:18 2021

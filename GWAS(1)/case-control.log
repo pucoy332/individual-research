@@ -1,0 +1,24 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --bfile cc.qc4
+  --out case-control
+  --test-missing
+
+Hostname: LAPTOP-ADFAOIQS
+Working directory: C:\Users\user\Desktop\GWAS
+Start time: Tue Nov 30 02:31:38 2021
+
+Random number seed: 1638207098
+16297 MB RAM detected; reserving 8148 MB for main workspace.
+357098 variants loaded from .bim file.
+190 people (105 males, 85 females) loaded from .fam.
+190 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 190 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.985669.
+357098 variants and 190 people pass filters and QC.
+Among remaining phenotypes, 125 are cases and 65 are controls.
+Writing --test-missing report to case-control.missing ... done.
+
+End time: Tue Nov 30 02:31:38 2021

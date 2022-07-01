@@ -1,0 +1,26 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --bfile cc.qc6
+  --make-bed
+  --out cc.clean
+  --remove het.drop
+
+Hostname: LAPTOP-ADFAOIQS
+Working directory: C:\Users\user\Desktop\GWAS
+Start time: Tue Nov 30 03:05:27 2021
+
+Random number seed: 1638209127
+16297 MB RAM detected; reserving 8148 MB for main workspace.
+306382 variants loaded from .bim file.
+187 people (105 males, 82 females) loaded from .fam.
+187 phenotype values loaded from .fam.
+--remove: 184 people remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 184 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.986227.
+306382 variants and 184 people pass filters and QC.
+Among remaining phenotypes, 122 are cases and 62 are controls.
+--make-bed to cc.clean.bed + cc.clean.bim + cc.clean.fam ... done.
+
+End time: Tue Nov 30 03:05:28 2021
