@@ -1,0 +1,25 @@
+PLINK v1.90b3y 64-bit (4 Nov 2015)
+Options in effect:
+  --bfile adclean
+  --chr 1-22
+  --make-bed
+  --out adclean.cc
+
+Hostname: hpcpbs01.adqimr.ad.lan
+Working directory: /mnt/backedup/home/luciaCo/LabData/Lab_SarahM/PROJECTS/MIGAS/GWAS/PLINK_GWAS_pract/casecontrol
+Start time: Fri Mar  1 14:38:56 2019
+
+Random number seed: 1551415136
+64148 MB RAM detected; reserving 32074 MB for main workspace.
+297237 variants loaded from .bim file.
+352 people (188 males, 164 females) loaded from .fam.
+352 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 352 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.985941.
+297237 variants and 352 people pass filters and QC.
+Among remaining phenotypes, 170 are cases and 182 are controls.
+--make-bed to adclean.cc.bed + adclean.cc.bim + adclean.cc.fam ... done.
+
+End time: Fri Mar  1 14:38:57 2019
